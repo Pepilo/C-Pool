@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include "my_print_alpha.h"
 
+//Write a function that, beginning with a, displays the lowercase alphabet in ascending order, on a single line. It must be prototyped as follows: int my_print_alpha ( void ) ;
+
 int my_print_alpha(void)
 {
 	char c = 'a';
