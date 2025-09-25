@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include "my_print_comb2.h"
 
+//Write a function that displays, in ascending order, all the different combinations of two two-digit numbers (00 01, 00 02, 00 03, 00 04, 00 05,. . . ,01 99, 02 03, . . . , 98 99). It must be prototyped as follows: int my_print_comb2 ( void ) ;
+
 int my_print_comb2(void)
 {
 	int section1 = 0, section2 = 0;
