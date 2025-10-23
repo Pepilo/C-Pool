@@ -2,7 +2,6 @@
 
 //Write a function that displays, in ascending order, all the numbers composed by $n$ different digits numbers ($n$ being given as a parameter). Given $n$ digits (all different), only the smallest number composed by thoses digits must be displayed. It must be prototyped as follows: int my_print_combn (int n ) ;
 
-
 int recur_my_print_combn(int n, int bufCompt[], int j)
 {
 	int  k = 0;
