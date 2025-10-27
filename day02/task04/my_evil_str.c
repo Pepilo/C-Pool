@@ -1,5 +1,3 @@
-#include "my_evil_str.h"
-
 //The goal of this task is to swap each of the string’s characters, two by two. In other words, you will swap the first letter with the last one, the second with the second-to-last and so on. The function should return a pointer to the first character of the reversed string: char * my_evil_str ( char * str ) ;
 
 char *my_evil_str(char *str)

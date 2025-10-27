@@ -1,5 +1,3 @@
-#include "my_getnbr.h"
-
 //Write a function that returns a number, sent to the function as a string. It must be prototyped as follows: int my_getnbr ( char const * str ) ;
 
 int my_getnbr(char const *str)
