@@ -1,5 +1,3 @@
-#include "my_compute_factorial_rec.h"
-
 //Write a recursive function that returns the factorial of the number given as a parameter. It must be prototyped the following way: int my_compute_factorial_rec (int nb ) ;
 
 int my_compute_factorial_rec(int nb)

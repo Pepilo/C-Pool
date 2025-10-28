@@ -1,5 +1,3 @@
-#include "my_compute_square_root.h"
-
 //Write a function that returns the square root (if it is a whole number) of the number given as argument. If the square root is not a whole number, the function should return 0. It must be prototyped the following way: int my_compute_square_root (int nb ) ;
 
 int my_compute_square_root(int nb)

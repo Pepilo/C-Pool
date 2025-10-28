@@ -1,5 +1,3 @@
-#include "my_find_prime_sup.h"
-
 //Write a function that returns the smallest prime number that is greater than, or equal to, the number given as a parameter. It must be prototyped the following way: int my_find_prime_sup (int nb ) ;
 
 int my_find_prime_sup(int nb)
