@@ -1,5 +1,3 @@
-#include "my_revstr.h"
-
 //Write a function that reverses a string. It must be prototyped the following way: char * my_revstr ( char * str ) ;
 
 char *my_revstr(char *str)

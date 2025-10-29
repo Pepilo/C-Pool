@@ -1,5 +1,3 @@
-#include "my_strncmp.h"
-
 //Reproduce the behavior of the strncmp function. Your function must be prototyped the following way: int my_strncmp ( char const * s1 , char const * s2 , int n ) ;
 
 int my_strncmp(char const *s1, char const *s2, int n)

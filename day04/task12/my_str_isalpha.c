@@ -1,5 +1,3 @@
-#include "my_str_isalpha.h"
-
 //Write a function that returns 1 if the string passed as parameter only contains alphabetical characters and 0 if the string contains another type of character. It must be prototyped the following way: int my_str_isalpha ( char const * str ) ;
 
 int my_str_isalpha(char const *str)

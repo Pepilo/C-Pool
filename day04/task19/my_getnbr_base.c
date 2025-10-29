@@ -1,5 +1,3 @@
-#include "my_getnbr_base.h"
-
 //Write a function that converts and returns a number (provided as a string) in a given base into a decimal number. The function must deal with negative numbers, and several successive + or - before the number. If any error occurs, the function must return 0. It must be prototyped the following way: int my_getnbr_base ( char const * str , char const * base ) ;
 
 int my_getnbr_base(char const *str, char const *base)

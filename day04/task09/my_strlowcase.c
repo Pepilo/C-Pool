@@ -1,5 +1,3 @@
-#include "my_strlowcase.h"
-
 //Write a function that puts every letter of every word in it in lowercase. It must be prototyped the following way: char * my_strlowcase ( char * str ) ;
 
 char *my_strlowcase(char *str)

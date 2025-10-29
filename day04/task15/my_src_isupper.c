@@ -1,5 +1,3 @@
-#include "my_str_isupper.h"
-
 //Write a function that returns 1 if the string passed as parameter only contains uppercase alphabetical char␂acters and 0 otherwise. It must be prototyped the following way: int my_str_isupper ( char const * str ) ;
 
 int my_str_isupper(char const *str)

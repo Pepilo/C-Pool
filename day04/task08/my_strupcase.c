@@ -1,5 +1,3 @@
-#include "my_strupcase.h"
-
 //Write a function that puts every letter of every word in it in uppercase. It must be prototyped the following way: char * my_strupcase ( char * str ) ;
 
 char *my_strupcase(char *str)

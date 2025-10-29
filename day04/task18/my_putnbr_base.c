@@ -1,5 +1,4 @@
 #include <unistd.h>
-#include "my_putnbr_base.h"
 
 //Write a function that converts and displays a decimal number into a number in a given base. The number is given as an int and the base is provided as a string. The base contains all the symbols that can be used to print a number (for instance, 0123456789 for the dec␂imal base, 01 for the binary base, 0123456789ABCDEF for the hexadecimal base). The function must deal with negative numbers, and be prototyped the following way: int my_putnbr_base (int nbr , char const * base ) ;
 

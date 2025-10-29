@@ -1,5 +1,3 @@
-#include "my_strncpy.h"
-
 //Write a function that copies n characters from a string into another. The destination string will already have enough memory to contain n characters. It must be prototyped the following way: char * my_strncpy ( char * dest , char const * src , int n ) ;
 
 char *my_strncpy(char *dest, char const *src, int n)

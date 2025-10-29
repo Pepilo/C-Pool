@@ -1,5 +1,3 @@
-#include "my_strstr.h"
-
 //Reproduce the behavior of the strstr function. Your function must be prototyped the following way: char * my_strstr ( char * str , char const * to_find ) ;
 
 char *my_strstr(char *str, char const *to_find)

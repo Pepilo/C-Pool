@@ -1,5 +1,3 @@
-#include "my_strcapitalize.h"
-
 //Write a function that capitalizes the first letter of each word. It must be prototyped the following way: char * my_strcapitalize ( char * str ) ;
 
 char *my_strcapitalize(char *str)
