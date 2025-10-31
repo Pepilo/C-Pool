@@ -1,5 +1,3 @@
-#include "my_strcat.h"
-
 //Write a function that concatenates two strings. It must be prototyped the following way: char * my_strcat ( char * dest , char const * src ) ;
 
 char *my_strcat(char *dest, char const *src)

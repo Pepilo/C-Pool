@@ -1,5 +1,3 @@
-#include "my_strncat.h"
-
 //Write a function that concatenates n characters of the src string to the end of the dest string. It must be prototyped the following way: char * my_strncat ( char * dest , char const * src , int nb ) ;
 
 char *my_strncat(char *dest, char const *src, int nb)
