@@ -1,4 +1,3 @@
-#include "my_concat_params.h"
 #include <stdlib.h>
 
 /*

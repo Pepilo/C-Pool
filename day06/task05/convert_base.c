@@ -1,4 +1,3 @@
-#include "convert_base.h"
 #include <stdlib.h>
 
 //Write a function that returns the result from the nbr string conversion (expressed in a base_from radix to a base_to radix), in the form of a newly, and sufficiently, allocated string. The number, represented by nbr, fits in an integer. The function must be prototyped as follows: char * convert_base ( char const * nbr , char const * base_from , char const * base_to ) ;

@@ -1,4 +1,3 @@
-#include "my_strdup.h"
 #include <stdlib.h>
 
 //Write a function that allocates memory and copies the string given as argument in it. It must be prototyped as follows: char * my_strdup ( char const * src ) 

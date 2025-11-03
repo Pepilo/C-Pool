@@ -1,5 +1,4 @@
 #include <unistd.h>
-#include "my_show_word_array.h"
 
 //Write a function that displays the content of an array of words. There must be one word per line, and each word must end with ‘\n’, including the last one. The function must be prototyped as follows: int my_show_word_array ( char * const * tab ) ;
 

@@ -1,4 +1,3 @@
-#include "my_str_to_word_array.h"
 #include <stdlib.h>
 
 //Write a function that splits a string into words. Separators will all be non-alphanumeric characters. The function returns an array in which each cell contains the address of a string (representing a word). The last cell must be null to terminate the array. The function must be prototyped as follows: char ** my_str_to_word_array ( char const * str ) ;
